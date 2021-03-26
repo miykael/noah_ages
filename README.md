@@ -18,4 +18,4 @@ Please take the time to look at the video, and listen to the amazing music from 
 
 ## How it is done
 
-For more information about how it is done, check out this [Jupyter Notebook](https://nbviewer.jupyter.org/github/miykael/noah_ages/blob/main/noah_ages.ipynb) or run it life via [Google Colab](https://colab.research.google.com/github/miykael/noah_ages/blob/main/noah_ages.ipynb).
+For more information about how it is done, check out this [Jupyter Notebook](https://nbviewer.jupyter.org/github/miykael/noah_ages/blob/main/noah_ages.ipynb).
