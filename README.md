@@ -4,6 +4,8 @@ This repository contains the code to create the following gif, in which [Noah Ka
 
 ![noah_ages](noah_average.gif)
 
+**For more details on how I've created this gif, see [this Jupyter Notebook](https://nbviewer.jupyter.org/github/miykael/noah_ages/blob/main/noah_ages.ipynb).**
+
 ## Background info
 
 [Noah Kalina](http://www.noahkalina.com/) took a photo of himself, every day for 20 years, and put them all in a video on youtube! I got aware of his work already back in 2006, when he published his first video covering 6 years. My fascination with this video is due to his dedication to his project, our own wonder about time and getting older, but almost as importantly - because of the captivating and beautiful music in the video, created by the amazing [Carly Comando](http://www.carlycomandomusic.com/).
@@ -16,4 +18,4 @@ Please take the time to look at the video, and listen to the amazing music from 
 
 ## How it is done
 
-For more information about how it is done, check out this [Jupyter Notebook](https://nbviewer.jupyter.org/github/miykael/noah_ages/blob/master/noah_ages.ipynb) or run it life via [Google Colab](https://colab.research.google.com/github/miykael/noah_ages/blob/master/noah_ages.ipynb).
+For more information about how it is done, check out this [Jupyter Notebook](https://nbviewer.jupyter.org/github/miykael/noah_ages/blob/main/noah_ages.ipynb) or run it life via [Google Colab](https://colab.research.google.com/github/miykael/noah_ages/blob/main/noah_ages.ipynb).
